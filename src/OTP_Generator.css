@@ -1,8 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
 
-.box
-{
+.body {
     width: 100%;
+    height: 100vh;
+    background-color: #628395;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Istok Web', sans-serif;
+    font-family: 'Tektur', sans-serif;
+}
 
+.box {
+    width: 100%;
     height: 100%;
     background-color: #c7eae4;
     border-radius: 10px;
@@ -13,9 +30,9 @@
     padding: 20px;
     box-sizing: border-box;
 }
-.btn
-{
-    width: 50%;
+
+.btn {
+    width: 25%;
     height: 50px;
     background-color: #628395;
     border-radius: 10px;
@@ -27,19 +44,15 @@
     margin: 10px 0;
     box-sizing: border-box;
 }
-.btn:hover
-{
+
+.btn:hover {
     background-color: #4e6773;
 }
-.btn:active
-{
-    background-color: #4e6773;
-}
-.otp
-{
+
+.otp {
     width: 100%;
     height: 50px;
-    background-color: #c7eae4;
+    background-color: transparent;
     border-radius: 10px;
     letter-spacing: 10px;
     border: none;
