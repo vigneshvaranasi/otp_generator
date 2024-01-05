@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/otp_generator/static/css/main.08bda7d5.css",
+    "main.js": "/otp_generator/static/js/main.523e42a8.js",
+    "index.html": "/otp_generator/index.html",
+    "main.08bda7d5.css.map": "/otp_generator/static/css/main.08bda7d5.css.map",
+    "main.523e42a8.js.map": "/otp_generator/static/js/main.523e42a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08bda7d5.css",
+    "static/js/main.523e42a8.js"
+  ]
+}
