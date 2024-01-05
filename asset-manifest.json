@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/otp_generator/static/css/main.d5be9992.css",
+    "main.css": "/otp_generator/static/css/main.68776cfc.css",
     "main.js": "/otp_generator/static/js/main.8ff19fb6.js",
     "index.html": "/otp_generator/index.html",
-    "main.d5be9992.css.map": "/otp_generator/static/css/main.d5be9992.css.map",
+    "main.68776cfc.css.map": "/otp_generator/static/css/main.68776cfc.css.map",
     "main.8ff19fb6.js.map": "/otp_generator/static/js/main.8ff19fb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5be9992.css",
+    "static/css/main.68776cfc.css",
     "static/js/main.8ff19fb6.js"
   ]
 }
