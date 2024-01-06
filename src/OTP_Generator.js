@@ -5,7 +5,7 @@ const OtpGenerator = () => {
   const [otp, setOtp] = useState('');
 
   const generateOtp = () => {
-    const newOtp = Math.floor(100000 + Math.random() * 900000).toString();
+    const newOtp = Math.floor(100000 + Math.random() * 900000);
     setOtp(newOtp);
   };
 
